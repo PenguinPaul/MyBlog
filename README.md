@@ -1,0 +1,4 @@
+MyBlog
+======
+
+MyBB Blog plugin.
